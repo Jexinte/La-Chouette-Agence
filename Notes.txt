@@ -1,0 +1,5 @@
+1 - Regarder le cahier des charges dans sa totalité et faire une synthèse des informations
+
+2 - Vérifier le code du P4 sur W3C
+	- HTML & CSS
+3 - S'inscrire sur Google Analytics
