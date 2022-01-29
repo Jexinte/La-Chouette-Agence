@@ -48,6 +48,10 @@ a:hover {
     padding: 100px 50px;
 }
 
+.tc-white:nth-child(1){
+color:#fff !important;
+}
+
 .bloc-md {
     padding: 50px;
 }
@@ -135,6 +139,7 @@ a:hover {
 .d-bloc p a {
     color: rgba(255, 255, 255, .6);
 }
+
 
 .d-bloc .a-btn:hover,
 .d-bloc .navbar a:hover,
@@ -438,7 +443,21 @@ nav .caret {
 .mg-md {
     margin-top: 10px;
     margin-bottom: 20px;
+    
 }
+
+.h3-title{
+    color:#000 !important;
+    font-weight: 900;
+}
+
+.txt-under-font-awesome-logo{
+    color:#000 !important;
+    font-size: 16px;
+    font-weight:bold;
+}
+
+
 
 .mg-lg {
     margin-top: 10px;
@@ -753,7 +772,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: rgba(0,0,0, 0.7);
     padding: 40px 40px 40px 40px;
 }
 
