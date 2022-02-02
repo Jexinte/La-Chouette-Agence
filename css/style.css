@@ -277,6 +277,12 @@ margin-bottom: .8em;
     box-shadow:5px 5px 5px rgba(0, 0, 0,.5);
 
 }
+
+.line-transparent{
+    border-bottom:.5px solid rgba(0,0,0,.1);
+}
+
+
 /* END OF CONTACT */
 .voffset {
     margin-top: 30px;
